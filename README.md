@@ -1,1 +1,2 @@
-# NLP-SENTIMENT-ANALYSIS-ON-IMDB-MOVIE-DATASET
+# Suven-consultants-and-technology
+IMBD analysis using NLP.
